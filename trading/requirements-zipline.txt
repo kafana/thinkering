@@ -1,0 +1,11 @@
+zipline==1.3.0
+pip
+scikit-learn
+matplotlib
+PyQt3D
+cvxopt # Convex solver for portfolio optimization
+py_vollib # Black-Scholes IV lib
+mibian # Another Black-Scholes IV lib
+iexfinance # IEX client
+pyfolio
+iexfinance==0.3.4

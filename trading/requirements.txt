@@ -1,0 +1,33 @@
+pandas==0.23.4
+# Currently doesn't work with py 3.7
+# zipline==1.3.0
+PyQt3D==5.11.2
+PyQt5==5.11.2
+qtconsole==4.3.1
+SQLAlchemy==1.2.10
+beautifulsoup4==4.6.1
+jupyter_client==5.2.3
+jupyter_console==5.2.0
+jupyter_core==4.4.0
+# Install data reader from github, the 0.6.0 is currently broken
+# pandas_datareader
+git+git://github.com/pydata/pandas-datareader.git@df98a72#egg=pandas_datareader
+pycharts==0.1.5
+pyfinance==1.1.1
+python_dateutil==2.7.3
+scipy==1.1.0
+statsmodels==0.9.0
+numpy==1.15.0
+certifi
+pytz
+quandl
+pip
+matplotlib
+pyzmq
+html5lib
+py_vollib # Black-Scholes IV lib
+mibian # Another Black-Scholes IV lib
+iexfinance==0.3.4 # IEX client
+sklearn # ML package
+graphviz # Requires a working installation of Graphviz lib
+cvxopt # Convex solver for portfolio optimization

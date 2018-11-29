@@ -1,0 +1,10 @@
+flask==1.0.2
+sqlalchemy==1.2.12
+flask-sqlalchemy==2.3.2
+itsdangerous==1.1.0
+werkzeug==0.14.1
+# websockets==6.0
+cryptography==2.3.1
+aiohttp==3.4.4
+aiosqlite==0.8.0
+asyncio_redis==0.15.1
